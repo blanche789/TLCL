@@ -10,7 +10,7 @@ Visitor: Excuse me, how do I get to Carnegie Hall?
 
 Passerby: Practice, practice, practice!
 
-有一个古老的笑话，说是一个在纽约的游客向行人打听这座城市中著名古典音乐场馆的方向：
+有一个笑话，说是一个在纽约的游客向行人打听这座城市中著名古典音乐场馆的方向：
 
 游客： 请问一下，我怎样去卡内基音乐大厅？
 
